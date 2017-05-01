@@ -6,9 +6,11 @@ Set of quizzes.
 
 - [x] Week 1
   - [x] Quiz (12/12) 100%
-- [ ] Week 2
-  - [ ] Quiz
-- [ ] Week 3
+- [x] Week 2
+  - [x] Quiz (6/6) 100%
+- [x] Week 3
+  - [x] Quiz (12/16) 75%
+- [ ] Week 4
   - [ ] Quiz
 
 Not for sale. Please, consider purchasing specific courses and/or contribute to respective course authors.
